@@ -31,11 +31,15 @@ Architecting the brain of next-gen hardware with relevant tools.
 
 ## My Skills
 
-**Frontend & Web:** HTML/CSS (95%), JavaScript (90%), TypeScript (85%), React (90%), Tailwind CSS (90%), Next.js (80%), React Native (75%)  
-**Backend & Databases:** Python (90%), Flask (75%), Supabase (75%), SQL (70%), SQLite (65%)  
-**Game Development:** Unity (95%), C# (85%), Ren'Py (85%), C++ (80%)  
-**Embedded Software:** ESP32 (75%), Arduino (70%)  
-**Tools:** Git/GitHub (90%), VS Code (95%), Visual Studio (95%), PyCharm (85%), IntelliJ IDEA (80%), Arduino IDE (85%), Eclipse (75%), SquareLine Studio (80%)
+**Frontend & Web:** HTML/CSS, JavaScript, TypeScript, React, Tailwind CSS, Next.js, React Native 
+
+**Backend & Databases:** Python, Flask, Supabase, SQL, SQLite  
+
+**Game Development:** Unity, C#, Ren'Py  
+
+**Embedded Software:** C++, ESP32, Arduino  
+
+**Tools:** Git/GitHub, VS Code, Visual Studio, PyCharm, IntelliJ IDEA, Arduino IDE, Eclipse, SquareLine Studio
 
 ---
 
