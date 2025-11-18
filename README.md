@@ -3,14 +3,6 @@
 Hi, I'm **Sumit Mandal**.  
 I am an aspiring software engineer with a background spanning **web development**, **embedded systems**, and **game development**. I turn complex problems into smooth, reliable, and impactful digital solutions.
 
----
-
-## View My Work
-
-[Scroll](#featured-projects)
-
----
-
 ## About Me
 
 **Aspiring Software Engineer & Lifelong Learner**
@@ -18,8 +10,6 @@ I am an aspiring software engineer with a background spanning **web development*
 With hands-on experience across web development, embedded systems, and game design, I build clean, responsive, and high-performance applications using modern tools and frameworks.
 
 I'm passionate about creating elegant solutions to complex problems and leveraging essential tools. I strive to learn efficient techniques to stay at the forefront of the ever-evolving tech landscape.
-
-[Get in touch](#contact) | [View Resume](#resume)
 
 ---
 
@@ -77,4 +67,4 @@ Feel free to reach out for collaboration or inquiries!
 
 ## Resume
 
-[View My Resume](link-to-your-resume.pdf)
+[View My Resume](https://docs.google.com/document/d/1DZufXLhJnt8-S_V6MLwqU-GZ_aXzJUUJSbbLLz1fmss/edit?usp=drive_link)
