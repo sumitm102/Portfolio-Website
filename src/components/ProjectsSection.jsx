@@ -111,7 +111,7 @@ export const ProjectsSection = () => {
             target="_blank"
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
           >
-            Check My GitHub <ArrowRight size={16} />
+            Check my github <ArrowRight size={16} />
           </a>
         </div>
       </div>

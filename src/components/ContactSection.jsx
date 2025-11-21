@@ -160,7 +160,7 @@ export const ContactSection = () => {
                   ""
                 )}
               >
-                {isSubmitting ? "Sending..." : "Send Message"}
+                {isSubmitting ? "Sending..." : "Send message"}
                 <Send size={16} />
               </button>
             </form>
